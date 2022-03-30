@@ -19,9 +19,8 @@ public class FilmTahmin {
   kullanıcının kaybedip veya kazandığını ve tahmin etmesi gereken filmin ismini  console yazdırınız.
 
  */
-	
+	//sdsadsd
 	public static void main(String[] args) {
-
 		Scanner scan = new Scanner(System.in);
 		
 		System.out.println("~~~FILM TAHMIN OYUNUNA HOSGELDINIZ~~~");
